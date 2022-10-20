@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="./images/forest-mist-1366x768.jpg" width="340" title="wallpaper">
+</p>
+
 <!--
 **deniskin82/deniskin82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
