@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+```
+~$ say "${CATCHPHRASE}"
+```
 <p align="center">
   <a href="http://ifconfig.me/ip"><img src="./images/forest-mist-1366x768.jpg" width="340" title="wallpaper"></a>
 </p>
