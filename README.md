@@ -9,7 +9,10 @@
 <p align="center">
   <a href="http://ifconfig.me/ip"><img src="./images/forest-mist-1366x768.jpg" width="340" title="wallpaper"></a>
 </p>
-
+```
+CI/CD - Continuous Improvement/Continuous Development
+AI - Artificial Intern/An Intern
+```
 <!--
 **deniskin82/deniskin82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
